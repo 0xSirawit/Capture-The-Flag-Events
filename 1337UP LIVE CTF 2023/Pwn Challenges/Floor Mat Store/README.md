@@ -58,7 +58,6 @@ Decode these hex and reverse them. then get the flag.
 [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')Reverse('Character')&input=MHg3ZDY2Mzc2ZTMxNzIgMHg3MDVmMzc3NTMwNjIzNDVmIDB4NzA1ZjM3NzUzMDYyMzQ1ZiAweDZlNzIzNDc3NWY3OTMzNjggMHgzNzVmNzk2ODc3NWYzNTM3IDB4MzQ2ODM3NWYzMDM1N2I0OSAweDU0NDk1MjQ3NDk1NDRlNDk)
 
 > Flag: INTIGRITI{50_7h475_why_7h3y_w4rn_4b0u7_p_4b0u7_pr1n7f}
-{: .prompt-tip }
 
 #### Decompiled source code - floormats
 ```c
